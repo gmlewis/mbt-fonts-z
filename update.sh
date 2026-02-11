@@ -1,4 +1,4 @@
 #!/bin/bash -ex
-moon update && moon install && rm -rf target
+moon update && rm -rf target
 moon fmt
-moon test --target js
+moon test -j 12 --target js

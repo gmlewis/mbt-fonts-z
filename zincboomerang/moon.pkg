@@ -1,3 +1,4 @@
 import {
   "gmlewis/fonts",
+  "moonbitlang/core/builtin",
 }
