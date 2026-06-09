@@ -1,9 +1,9 @@
 name = "gmlewis/fonts-z"
 
-version = "0.19.10"
+version = "0.19.11"
 
 import {
-  "gmlewis/fonts@0.19.10",
+  "gmlewis/fonts@0.19.11",
 }
 
 readme = "README.md"
