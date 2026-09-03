@@ -1,0 +1,17 @@
+// Generated using `moon info`, DON'T EDIT IT
+package "gmlewis/fonts-z/znikomitno24"
+
+import {
+  "gmlewis/fonts",
+}
+
+// Values
+pub let font : @fonts.Font
+
+// Errors
+
+// Types and methods
+
+// Type aliases
+
+// Traits
